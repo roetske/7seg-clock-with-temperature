@@ -7,3 +7,5 @@ i2c ht16k33 module for controlling 4 digits<br/>
 esp 8266 mini<br/>
 ssid settings via wifi manager<br/>
 update time for my region belgium<br/>
+had to make special code with ai for control of the display<br/>
+most common is common kathode , my display common anode.<br/>
